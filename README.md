@@ -1,6 +1,5 @@
-# Yiisoft Framework plugin for PHPStorm
-
-<iframe width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/25388"></iframe>
+<img align="left" height="80" width="80" src="https://plugins.jetbrains.com/files/25388/606931/icon/pluginIcon.svg" alt="logo" />
+<h1>Yiisoft Framework plugin for PHPStorm</h1>
 
 Plugin for PHPStorm IDE for Yiisoft frameworks.
 
@@ -9,7 +8,7 @@ The primary objective is to support Yii3 while also preparing for future support
 Currently, status of the plugin is under development. Some features may be unavailable during A/B testing and collecting UX reports.
 
 
-## Plugin Marketplace
+### Plugin Marketplace
 
 https://plugins.jetbrains.com/plugin/25388-yiisoft-framework
 
