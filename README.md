@@ -1,6 +1,10 @@
 <img align="left" height="80" width="80" src="https://plugins.jetbrains.com/files/25388/606931/icon/pluginIcon.svg" alt="logo" />
 <h1>Yiisoft Framework plugin for PHPStorm</h1>
 
+![Downloads](https://img.shields.io/jetbrains/plugin/d/25388-yiisoft-framework)
+![Rating](https://img.shields.io/jetbrains/plugin/r/rating/25388-yiisoft-framework)
+![Version](https://img.shields.io/jetbrains/plugin/v/25388-yiisoft-framework)
+
 Plugin for PHPStorm IDE for Yiisoft frameworks.
 
 The primary objective is to support Yii3 while also preparing for future support for Yii2 / Yii1.
