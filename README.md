@@ -58,12 +58,8 @@ https://plugins.jetbrains.com/plugin/25388-yiisoft-framework
 
 ## Screenshots
 
-<details>
-<summary>Show Gallery</summary>
-
 ![](docs/images/screenshot2.png)
 ![](docs/images/screenshot3.png)
 ![](docs/images/screenshot4.png)
 ![](docs/images/screenshot5.png)
 ![](docs/images/screenshot6.png)
-</details>
